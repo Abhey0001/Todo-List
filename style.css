@@ -3,8 +3,13 @@
     color: darkgray;
 }
 .kk{
-    background-color: lightcoral;
+    /* background-color: lightcoral; */
+    background-image: url("7.jfif");
+    background-size: 400vh 400vh;
 }
+
+
+
 .list-group-item {
     position: relative;
     display: block;
